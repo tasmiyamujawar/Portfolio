@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Skill Up Training Institute Website",
+    "imageSrc": "projects/skillup.png",
+    "description": " It showcase the feature of a Institute.Also contains the information of placed students, courses, location. It is multi routes responsive web application.",
+    "skills": ["React JS", "Tailwind CSS"],
+    "demo": "https://skill-up-website.netlify.app/",
+    "source": "https://github.com/tasmiyamujawar/SkillUpWebsite.git"
+  },
+  {
+    "title": "Jobby App",
+    "imageSrc": "projects/jobbyapp.png",
+    "description": "It is user-friendly job-seeking platform with job listings and advanced search/filtering options. Once user found a job,Jobby app provides a job description, so user can learn about the role and company.",
+    "skills": ["React JS", "JavaScript"],
+    "demo": "https://jobby-app-page.netlify.app/",
+    "source": "https://github.com/tasmiyamujawar/JobbyApp.git"
+  },
+  {
+    "title": "Currency Converter",
+    "imageSrc": "projects/currencyconverter.png",
+    "description": "The Currency Converter allows users to easily convert currencies using the API. With a simple form, users can select the currencies, enter the amount, to get real-time exchange rates and the converted amount.",
+    "skills": ["React JS", "Tailwind CSS"],
+    "demo": "https://currencyconverter-prg.netlify.app/",
+    "source": "https://github.com/tasmiyamujawar/currencyconverter.git"
+  },
+  {
+    "title": "Amazon-Clone",
+    "imageSrc": "projects/amazonclone.png",
+    "description": "Created a front-end clone of the Amazon e-commerce website, optimized for large screens.",
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "demo": "https://amazonclone-page.netlify.app/",
+    "source": "https://github.com/tasmiyamujawar/Amazon-clone.git"
+  },
+  {
+    "title": "Car Booking System",
+    "imageSrc": "projects/project.png",
+    "description": "Managed book and return rented car. Created a feature that will displays only available cars for booking .",
+    "skills": ["Core Java"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Calculator",
+    "imageSrc": "projects/calculator.png",
+    "description": "First created the UI design using HTML CSS and then using JavaScript added the functionality to the calculator. ",
+    "skills": ["HTML","CSS","JavaScript"],
+    "demo": "https://calculatorproject-byjs.netlify.app/",
+    "source": "https://github.com/tasmiyamujawar/Calculator.git"
+  },
+  {
+    "title": "Analog Clock",
+    "imageSrc": "projects/analogclock.png",
+    "description": "First created the Design using HTML CSS and then added the functionality to the clock using JavaScript.",
+    "skills": ["HTML","CSS","JavaScript"],
+    "demo": "https://analog-clockprg.netlify.app/",
+    "source": "https://github.com/tasmiyamujawar/Analog-clock.git"
+  },
+  {
+    "title": "Login Website",
+    "imageSrc": "projects/loginwebsite.png",
+    "description": "Created Login website structure Design using HTML CSS",
+    "skills": ["HTML","CSS"],
+    "demo": "https://loginwebsite-prg.netlify.app/",
+    "source": "https://github.com/tasmiyamujawar/login-website.git"
+  }
+]
